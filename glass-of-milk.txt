@@ -1,0 +1,7 @@
+get clean empty glass
+get carton of milk from refrigerator
+open carton of milk
+pour milk into glass
+close milk
+return to refrigerator
+enjoy
